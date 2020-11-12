@@ -139,6 +139,11 @@ footer{
         width: 80px;
         height: 80px;
     }
+
+    .temp-n-icon {
+        margin: 25px auto;
+    }
+
     .temp-n-icon h2{
         font-size: 50px;
     }
@@ -156,6 +161,7 @@ footer{
     }
     .big-line{
         width: 600px;
+        margin-top: 50px;
     }
     footer{
         justify-content: center;
